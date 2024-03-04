@@ -4,8 +4,8 @@ import doctorImg03 from "../images/doctor-img03.png";
 
 export const doctors = [
   {
-    id: "01",
-    name: "Dr. Mukund Khandelwal",
+    id: "1",
+    name: "Dr. Rishabh Jain",
     specialization: "Surgeon",
     avgRating: 4.8,
     totalRating: 272,
@@ -14,7 +14,7 @@ export const doctors = [
     hospital: "Mount Adora Hospital, Sylhet.",
   },
   {
-    id: "02",
+    id: "2",
     name: "Dr. Mridul Saraswat",
     specialization: "Neurologist",
     avgRating: 4.8,
@@ -24,7 +24,7 @@ export const doctors = [
     hospital: "Mount Adora Hospital, Sylhet.",
   },
   {
-    id: "03",
+    id: "3",
     name: "Dr. Yash Shekhavat",
     specialization: "Dermatologist",
     avgRating: 4.8,

@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import { BsArrowRight } from "react-icons/bs";
 const DoctorCard = ({ doctor }) => {
   const {
+    path,
     name,
     avgRating,
     totalRating,
